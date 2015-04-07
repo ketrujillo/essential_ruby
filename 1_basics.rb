@@ -3,6 +3,7 @@
 
 # The essential pattern in Ruby:
 #    variable = object.method
+#comment testing
 first = "raghu".capitalize
 last = "betina".capitalize
 
